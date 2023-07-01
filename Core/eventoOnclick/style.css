@@ -1,0 +1,41 @@
+
+.barraNav {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    background-color: rgb(213, 213, 212);
+}
+
+.barraNav h1 {
+    margin-right: 10px;
+    padding: 20px;
+}
+.barraNav .btn {
+    background-color: rgb(126, 126, 244);
+    margin-left: 10px;
+    padding: 25,10 px;
+    border-color: black;
+    box-shadow: 8px 2px 4px rgba( 2, 3, 0.2);
+}
+button.btnLike{
+    background-color: rgb(221, 221, 97);
+    border-color: black;
+}
+.container{
+    width: 200px;
+}
+.sub-container{
+    margin-left: 20px;
+    padding: 10px;
+}
+#definition{
+    margin-left: 20px;
+}
+#add{
+    background-color: rgb(43, 121, 95);
+    border-color: black;
+    box-shadow: 8px 2px 4px rgba( 2, 3, 0.2);
+}
+#mi-div{
+    width: 500px;
+}
